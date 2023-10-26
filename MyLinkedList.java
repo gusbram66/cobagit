@@ -1,3 +1,4 @@
+//dwawadwdawadwa
 package algodatb2023.tugasLL;
 
 import algodatb2023.hewan.*;
